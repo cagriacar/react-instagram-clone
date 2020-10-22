@@ -1,21 +1,21 @@
-react modül kurulumu
-firebase proje oluşturma,
-firebase web app oluşturma,
+PROJE BAŞLATMA
 
-material ui modül kurulumu,
-firebase-tools modül kurulumu,
-firebase modül kurulumu,
+Öncelikle Node js’in kurulu olması gerekmektedir.Yoksa link aşağıdadır.
 
+Nodejs LTS : https://nodejs.org/en/
 
-firebase bağlantısı,
+Nodejs kurduktan projenizi editörünüzde açın ve terminal üzerinden aşağıdaki adımları izleyerek projeyi başlata bilirsiniz.
 
-firebase authentication,
+npm install npm kur
 
-instagram hesabını cekme - react-instagram-embed
+npm start projeyi başlat - get started project
 
-firebase deploy - yayınlama
+Reactjs React framework ile yazıldı.
 
+*React Hooks *react-flip-move
 
+Firebase Database (free) firebase kullanımını gerçekleştirdim.Gerçekten o kadar hızlı tepki veriyor ki inanılmaz.
 
-PROJEYİ DÜZENLEYİP YAYINLAYACAĞIM.COMPONENTLERE AYIRIP TEMIZ BİR KOD GÖSTERMEK İSTİYORUM.
+*Real-time Database
 
+## Proje detaylandırılmalıdır.clean-code
